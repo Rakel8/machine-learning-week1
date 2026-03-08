@@ -26,8 +26,8 @@ Proyek ini dikembangkan di dalam *virtual environment* yang terisolasi. Untuk me
 
 1. **Clone repositori ini:**
    ```bash
-   git clone <URL_REPO_KAMU>
-   cd <NAMA_FOLDER_REPO>
+   git clone https://github.com/Rakel8/machine-learning-week1.git
+   cd machine-learning-week1
    ```
 
 2. **Buat dan aktifkan Virtual Environment:**
